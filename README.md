@@ -1,4 +1,4 @@
-# 付録A ローンチファイルの書き方（Humble版）
+# 付録A ローンチファイルの書き方（改訂第2版）
 ## 概要
 付録A ローンチファイルの書き方のサンプルローンチファイル．ソースコードは以下のChapter2 turtlesim_launchを参照してください．
 - [サンプルローンチファイル](https://github.com/AI-Robot-Book-Humble/chapter2/tree/master/turtlesim_launch)
